@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(155, 220, 245);
+}
+
+h1 {
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+li {
+    font-family: sans-serif;
+}
+
+.main-container {
+    width: 50%;
+    margin: auto;
+}
